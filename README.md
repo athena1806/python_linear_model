@@ -1,12 +1,12 @@
 # Conda environment with environment.yml
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/athena1806/python_linear_model)
+[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/athena1806/python_linear_model/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-[https://mybinder.org/v2/gh/athena1806/python_linear_model]
+[https://mybinder.org/v2/gh/athena1806/python_linear_model/HEAD]
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
